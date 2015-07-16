@@ -1,0 +1,15 @@
+{
+  "name": "svgjsoptimizer",
+  "version": "0.1.0",
+  "description": "A simple floating point precision routine for optimizing .js files containing SVG coordinates.",
+  "main": "svgoptimizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SVG",
+    "JavaScript"
+  ],
+  "author": "Wesley Rast",
+  "license": "WTFPL"
+}
